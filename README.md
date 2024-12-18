@@ -26,5 +26,5 @@ target="_blank"></a>
 <a href="mailto:vitorafr2010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vitor-augusto-1a665325b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
- ![Snake animation](https://github.com/VitorRodrri/VitorRodrri/blob/output-contribution-grid-snake.sgv)
+ ![Snake gif](https://github.com/VitorRodrri/VitorRodrri/blob/output-contribution-grid-snake.gif)
 </div>
